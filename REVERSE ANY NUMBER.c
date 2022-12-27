@@ -10,6 +10,6 @@ main()
         y=(10*y+rem);
         n=n/10;
     }
-    printf("reverse=%d",y);
+    printf("reverse=%d%d",y,n);
     getch();
 }
